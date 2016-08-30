@@ -1,0 +1,388 @@
+2016/08/24 07:30:58 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/24 07:31:44 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('login')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii/default/login
+---
+2016/08/24 07:32:09 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('login')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii/default/log...')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii/default/login
+---
+2016/08/25 02:44:12 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:01:24 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:06:11 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:07:50 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:19:28 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:23:34 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:24:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:26:26 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:30:24 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:31:00 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:34:35 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:34:53 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:38:37 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not allowed to access this page.' in /home/burganic/public_html/projects/workflow/yii1/framework/gii/GiiModule.php:170
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(263): GiiModule->beforeControllerAction(Object(DefaultController), Object(CInlineAction))
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('gii')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=gii
+---
+2016/08/25 03:40:31 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'burganic_workflowyii.user' doesn't exist. The SQL statement executed was: SHOW FULL COLUMNS FROM `user`.
+in /home/burganic/public_html/projects/workflow/yii/index.php (13)
+2016/08/25 03:48:20 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('admin')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('user/admin')
+#9 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/burganic/public_html/projects/workflow/yii/index.php(13): CApplication->run()
+#11 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=user/admin
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/index.php?r=user/create
+---
+2016/08/25 04:08:04 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "search".' in /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php:483
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(270): CController->missingAction('search')
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('search')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('user/search')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=user/search
+---
+2016/08/25 04:36:56 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('automation')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('workflow/automa...')
+#9 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#11 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=workflow/automation
+---
+2016/08/25 04:38:14 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('automation')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('workflow/automa...')
+#9 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#11 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=workflow/automation
+---
+2016/08/25 04:38:39 [error] [exception.CHttpException.403] exception 'CHttpException' with message 'You are not authorized to perform this action.' in /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php:182
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/auth/CAccessControlFilter.php(145): CAccessControlFilter->accessDenied(Object(CWebUser), 'You are not aut...')
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilter.php(38): CAccessControlFilter->preFilter(Object(CFilterChain))
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(1145): CFilter->filter(Object(CFilterChain))
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CInlineFilter.php(58): CController->filterAccessControl(Object(CFilterChain))
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/filters/CFilterChain.php(130): CInlineFilter->filter(Object(CFilterChain))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(291): CFilterChain->run()
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('automation')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('workflow/automa...')
+#9 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#11 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=workflow/automation
+---
+2016/08/27 01:19:40 [error] [exception.CHttpException.404] exception 'CHttpException' with message 'The system is unable to find the requested action "etactioneventsbyid".' in /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php:483
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(270): CController->missingAction('etactioneventsb...')
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('etactioneventsb...')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('automation/etac...')
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#4 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#5 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=automation/etactioneventsbyid
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/
+---
+2016/08/28 02:02:02 [error] [exception.CException] exception 'CException' with message 'Workflow and its behaviors do not have a method or closure named "w_getPrimaryKey".' in /home/burganic/public_html/projects/workflow/yii1/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/db/ar/CActiveRecord.php(227): CComponent->__call('w_getPrimaryKey', Array)
+#1 /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php(260): CActiveRecord->__call('w_getPrimaryKey', Array)
+#2 /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php(260): Workflow->w_getPrimaryKey()
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): AutomationController->actionSaveproject()
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('saveproject')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('automation/save...')
+#9 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#11 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=automation/saveproject/
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/
+---
+2016/08/28 02:32:04 [error] [exception.CException] exception 'CException' with message 'Workflow and its behaviors do not have a method or closure named "template".' in /home/burganic/public_html/projects/workflow/yii1/framework/base/CComponent.php:266
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/db/ar/CActiveRecord.php(227): CComponent->__call('template', Array)
+#1 /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php(301): CActiveRecord->__call('template', Array)
+#2 /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php(301): Workflow->template()
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): AutomationController->actionSavetemplateguide()
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('savetemplategui...')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('automation/save...')
+#9 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#11 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=automation/savetemplateguide
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/
+---
+2016/08/28 03:11:17 [error] [system.db.CDbCommand] CDbCommand::() failed: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty. The SQL statement executed was: .
+in /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php (194)
+in /home/burganic/public_html/projects/workflow/yii/index.php (14)
+2016/08/28 03:11:17 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42000]: Syntax error or access violation: 1065 Query was empty. The SQL statement executed was: ' in /home/burganic/public_html/projects/workflow/yii1/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/db/CDbCommand.php(377): CDbCommand->queryInternal('', 0, Array)
+#1 /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php(194): CDbCommand->query()
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): AutomationController->actionGetworkflowtype()
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('getworkflowtype')
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('automation/getw...')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#10 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=automation/getworkflowtype
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/?id=63
+---
+2016/08/28 03:31:52 [error] [exception.CException] exception 'CException' with message 'Property "CDbDataReader.wt_id" is not defined.' in /home/burganic/public_html/projects/workflow/yii1/framework/base/CComponent.php:130
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php(198): CComponent->__get('wt_id')
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): AutomationController->actionGetworkflowtype()
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('getworkflowtype')
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('automation/getw...')
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#8 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#9 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=automation/getworkflowtype
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/?id=63
+---
+2016/08/28 09:43:03 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'burganic_workflowyii.workflowtemplates' doesn't exist. The SQL statement executed was: SELECT * FROM `workflowtemplates` wt JOIN `tbl_workflow` w ON (w.w_id = wt.w_id) JOIN `tbl_category` c ON ( c.c_id = wt.c_id ) ORDER BY wt.wt_id DESC.
+in /home/burganic/public_html/projects/workflow/yii/protected/controllers/GuideController.php (10)
+in /home/burganic/public_html/projects/workflow/yii/index.php (14)
+2016/08/28 09:43:03 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'burganic_workflowyii.workflowtemplates' doesn't exist. The SQL statement executed was: SELECT * FROM `workflowtemplates` wt JOIN `tbl_workflow` w ON (w.w_id = wt.w_id) JOIN `tbl_category` c ON ( c.c_id = wt.c_id ) ORDER BY wt.wt_id DESC' in /home/burganic/public_html/projects/workflow/yii1/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/burganic/public_html/projects/workflow/yii/protected/controllers/GuideController.php(10): CDbCommand->queryAll()
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): GuideController->actionIndex()
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('guide')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#10 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=guide
+---
+2016/08/28 09:50:16 [error] [system.db.CDbCommand] CDbCommand::fetchAll() failed: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'burganic_workflowyii.tbl_wokflowtemplates' doesn't exist. The SQL statement executed was: SELECT * FROM tbl_wokflowtemplates wt JOIN tbl_workflow w ON (w.w_id = wt.w_id) JOIN tbl_category c ON ( c.c_id = wt.c_id ) ORDER BY wt.wt_id DESC.
+in /home/burganic/public_html/projects/workflow/yii/protected/controllers/GuideController.php (10)
+in /home/burganic/public_html/projects/workflow/yii/index.php (14)
+2016/08/28 09:50:16 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[42S02]: Base table or view not found: 1146 Table 'burganic_workflowyii.tbl_wokflowtemplates' doesn't exist. The SQL statement executed was: SELECT * FROM tbl_wokflowtemplates wt JOIN tbl_workflow w ON (w.w_id = wt.w_id) JOIN tbl_category c ON ( c.c_id = wt.c_id ) ORDER BY wt.wt_id DESC' in /home/burganic/public_html/projects/workflow/yii1/framework/db/CDbCommand.php:543
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/db/CDbCommand.php(396): CDbCommand->queryInternal('fetchAll', Array, Array)
+#1 /home/burganic/public_html/projects/workflow/yii/protected/controllers/GuideController.php(10): CDbCommand->queryAll()
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): GuideController->actionIndex()
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('')
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('guide')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#10 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=guide
+---
+2016/08/29 04:35:23 [error] [exception.CException] exception 'CException' with message 'Property "Workflow.c_name" is not defined.' in /home/burganic/public_html/projects/workflow/yii1/framework/base/CComponent.php:173
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/db/ar/CActiveRecord.php(161): CComponent->__set('c_name', 'test add')
+#1 /home/burganic/public_html/projects/workflow/yii/protected/controllers/ManagecategoryController.php(27): CActiveRecord->__set('c_name', 'test add')
+#2 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): ManagecategoryController->actionAddcategory()
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('addcategory')
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('managecategory/...')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#9 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#10 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=managecategory/addcategory
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/index.php?r=managecategory
+---
+2016/08/30 06:38:13 [error] [system.db.CDbCommand] CDbCommand::execute() failed: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '17-marketing' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `tbl_tags` (`wt_id`, `tag`) VALUES (:yp0, :yp1).
+in /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php (317)
+in /home/burganic/public_html/projects/workflow/yii/index.php (14)
+2016/08/30 06:38:13 [error] [exception.CDbException] exception 'CDbException' with message 'CDbCommand failed to execute the SQL statement: SQLSTATE[23000]: Integrity constraint violation: 1062 Duplicate entry '17-marketing' for key 'PRIMARY'. The SQL statement executed was: INSERT INTO `tbl_tags` (`wt_id`, `tag`) VALUES (:yp0, :yp1)' in /home/burganic/public_html/projects/workflow/yii1/framework/db/CDbCommand.php:358
+Stack trace:
+#0 /home/burganic/public_html/projects/workflow/yii1/framework/db/ar/CActiveRecord.php(1080): CDbCommand->execute()
+#1 /home/burganic/public_html/projects/workflow/yii1/framework/db/ar/CActiveRecord.php(809): CActiveRecord->insert(NULL)
+#2 /home/burganic/public_html/projects/workflow/yii/protected/controllers/AutomationController.php(317): CActiveRecord->save()
+#3 /home/burganic/public_html/projects/workflow/yii1/framework/web/actions/CInlineAction.php(49): AutomationController->actionSavetemplateguide()
+#4 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(308): CInlineAction->runWithParams(Array)
+#5 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(286): CController->runAction(Object(CInlineAction))
+#6 /home/burganic/public_html/projects/workflow/yii1/framework/web/CController.php(265): CController->runActionWithFilters(Object(CInlineAction), Array)
+#7 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(282): CController->run('savetemplategui...')
+#8 /home/burganic/public_html/projects/workflow/yii1/framework/web/CWebApplication.php(141): CWebApplication->runController('automation/save...')
+#9 /home/burganic/public_html/projects/workflow/yii1/framework/base/CApplication.php(185): CWebApplication->processRequest()
+#10 /home/burganic/public_html/projects/workflow/yii/index.php(14): CApplication->run()
+#11 {main}
+REQUEST_URI=/projects/workflow/yii/index.php?r=automation/savetemplateguide
+HTTP_REFERER=http://burganic.com/projects/workflow/yii/?id=64
+---
